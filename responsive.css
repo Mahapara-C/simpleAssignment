@@ -1,0 +1,189 @@
+@media only screen and (min-width:200px) and (max-width: 576px) {
+    body{
+        width:300px;
+    }
+    .header-container{
+        padding: 20px 20px;
+    }
+    .navbar{
+        flex-direction: column;
+    }
+    .left{
+       flex-direction: column;
+       gap: 0px;
+    }
+    .right-side{
+       flex-direction: column;
+       gap: 5px;
+    }
+    .right button{
+        font-size: 12px;
+        background-color: #FD6F00;
+        padding: 4px 4px;
+        border: none;
+    }
+    .text h1{
+        padding-top: 0px;
+        font-size: 21px;
+    }
+    .text p{
+        font-size: 9px;
+    }
+    .text h3{
+        font-size: 13px;
+    }
+    .buttons{
+        height: 40px;
+        width: 150px;
+        padding: 5px;
+    }
+    .buttons a{
+        font-size: 11px;
+    }
+    .port-btn{
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 0px;
+        padding-right: 0px;
+        width: 90px;
+        height: 24px;
+    }
+    .port-btn svg{
+        width: 18px;
+    }
+    .hire-btn {
+        margin-left: 5px;
+    }
+    .full{
+        flex-direction: column;
+    }
+    .img-container img{
+        height: 200px;
+        width: 200px;
+        padding-top: 20px;
+        padding-left: 0px;
+    }
+    .rotate{
+        height: 70px;
+    width: 310px;
+    left: -24px;
+    }
+    .rotate-items{
+        font-size: 10px;
+        gap: 5px;
+    }
+    .expo{
+        text-align: left;
+    }
+    .aboutme-expo{
+        flex-direction: column;
+    }
+    .expo h1 {
+        font-size: 24px;
+    }
+    .myexpo{
+        flex-direction: column;
+        padding: 20px 15px;
+    }
+    #grad h5{
+        font-size: 10px;
+    }
+    #grad h1{
+        font-size: 20px;
+    }
+    #grad p{
+        font-size: 9px;
+    }
+    .upper{
+        font-size: 9px;
+    }
+    .posts{
+        font-size: 12px;
+    }
+    .blocks{
+        padding: 40px 20px;
+        gap: 15px;
+    }
+    .title{
+        
+        padding: 20px 0px;
+    }
+    .norm{
+        padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin: 20px 5px;
+}
+
+.abnorm {
+    padding: 10px 10px;
+    margin: 20px 10px;
+}
+    .side1 h3 {
+        font-size: 15px;
+    }
+    .side1 p {
+        font-size: 10px;
+    }
+    .side2 {
+        font-size: 10px;
+    }
+    .butts{
+        font-size: 10px;
+    }
+    .img-txt{
+        flex-direction: column;
+        padding:10px 35px;
+    }
+    .imgg img{
+        width: 200px;
+        height: 200px;
+    }
+    .start h4 {
+        font-size: 10px;
+    }
+    .start h1 {
+        font-size: 20px;
+    }
+    .box{
+        margin: 50px 15px;
+    padding: 80px 20px;
+    }
+    .box input {
+        width: 90%;
+        font-size: 10px;
+    }
+    .box textarea {
+        font-size: 10px;
+    }
+    .box button {
+        padding: 10px 10px;
+    }
+    .centr{
+        font-size: 11px;
+    }
+    .menu {
+        font-size: 9px;
+        
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .bg {
+        padding-top: 15px;
+        padding-bottom: 5px;
+       
+    }
+        
+    
+    .menu span {
+        padding: 0px 10px;
+    }
+    .fa-brands, .fa-classic, .fa-regular, .fa-sharp-solid, .fab, .far, .fas {
+        font-size: 18px;
+    }
+    .end h5 {
+        font-size: 10px;
+    }
+
+}
